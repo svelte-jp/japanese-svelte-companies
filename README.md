@@ -1,4 +1,4 @@
-# japanese svelte companies
+# Japanese Svelte Companies
 Svelte/SvelteKitを採用している日本企業まとめ（随時更新）
 
 ## 企業一覧（五十音順、アルファベット順）
@@ -37,16 +37,16 @@ Svelte/SvelteKitを採用している日本企業まとめ（随時更新）
 - [Next.js + SvelteによるnoteのフロントエンドApp分割](https://note.jp/n/n7f757d7050f6)
 
 ## 貢献
-このリポジトリは [@oekazuma](https://github.com/oekazuma) が随時追加しておりますが、Pull Eequest も歓迎しています。
-以下の条件を満たしていれば、積極的にマージします。
+このリポジトリは [@oekazuma](https://github.com/oekazuma) が随時追加しておりますが、Pull Request も歓迎しています。
+以下の条件を満たしている場合、積極的にマージします。
 
 - 日本に拠点がある
 - Svelte/SvelteKitを採用していることが分かる事例（テックブログ、求人情報、登壇資料、技術記事 等）
 
-事例の記事の差し替えや追加も受け付けますので気軽にPull Requestしていただけたらと思います。
+事例の差し替えや追加・削除も受け付けていますので、気軽にPull Requestをお寄せください。
 
 ## 謝辞
 [Awesome japanese a11y companies](https://github.com/yamanoku/awesome-japanese-a11y-companies) を参考にしています。
 
 ## 連絡先
-[Svelte Japan 公式 X](https://twitter.com/SvelteJapan)
+[Svelte Japan 公式X](https://twitter.com/SvelteJapan)
