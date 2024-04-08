@@ -2,9 +2,19 @@
 Svelte/SvelteKitを採用している日本企業まとめ（随時更新）
 
 ## 企業一覧（五十音順、アルファベット順）
+
+### 株式会社アンドパッド
+- [NuxtもNextもSvelteも推し！フロントエンドエンジニアがアンドパッドでみつけた意外な夢](https://sg.wantedly.com/companies/andpad/post_articles/362007)
+
 ### 株式会社エイチームライフデザイン
 - [Svelte をプロダクトに導入した話](https://speakerdeck.com/oekazuma/svelte-wopurodakutonidao-ru-sitahua)
 - [エイチーム × レバレジーズ フロントエンド勉強会を開催しました](https://techblog.a-tm.co.jp/entry/2023/05/10/104558)
+
+### 株式会社カヤック
+- [仕事でSvelteフレームワークを扱ってみた話](https://techblog.kayac.com/using-the-svelte-framework-at-work)
+
+### 株式会社ギフティ
+- [プロダクションでSvelteを採用して半年間運用してみた話](https://speakerdeck.com/yukiks25/purodakusiyondesveltewocai-yong-siteban-nian-jian-yun-yong-sitemitahua)
 
 ### ニフティ株式会社
 - [サービスにSvelteを採用した経緯とその理由](https://speakerdeck.com/niftycorp/20230711-collaborated-frontend-study-takeroid)
@@ -16,6 +26,9 @@ Svelte/SvelteKitを採用している日本企業まとめ（随時更新）
 ### 株式会社フライル
 - [20230219_Vercel Meetupの資料](https://docs.google.com/presentation/d/16GCSVB-h_TlZtyq-CQ98_fUux5fpKy8QCybMsgH4SsI/edit#slide=id.g20e65406401_0_108)
 
+### 株式会社Liquitous
+- [SvelteKitをプロダクションに投入した気づき](https://speakerdeck.com/kazuumin/sveltekitwo-hurotakusiyonni-tou-ru-sitaqi-tuki)
+
 ### 株式会社M&Aクラウド
 - [新規プロジェクトのフロントエンドにSvelteKitを採用しました](https://tech.macloud.jp/entry/2022/08/30/122131)
 - [NuxtからSvelteKitへ移行しました](https://tech.macloud.jp/entry/2023/12/06/134020)
@@ -24,11 +37,13 @@ Svelte/SvelteKitを採用している日本企業まとめ（随時更新）
 - [Next.js + SvelteによるnoteのフロントエンドApp分割](https://note.jp/n/n7f757d7050f6)
 
 ## 貢献
-このリポジトリは [@oekazuma](https://github.com/oekazuma) が随時追加しておりますが、Pull request も歓迎しています。
+このリポジトリは [@oekazuma](https://github.com/oekazuma) が随時追加しておりますが、Pull Eequest も歓迎しています。
 以下の条件を満たしていれば、積極的にマージします。
 
-- 日本企業である（注意：**日本法人**ではない）
+- 日本に拠点がある
 - Svelte/SvelteKitを採用していることが分かる事例（テックブログ、求人情報、登壇資料、技術記事 等）
+
+事例の記事の差し替えや追加も受け付けますので気軽にPull Requestしていただけたらと思います。
 
 ## 謝辞
 [Awesome japanese a11y companies](https://github.com/yamanoku/awesome-japanese-a11y-companies) を参考にしています。
