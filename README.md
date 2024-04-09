@@ -39,6 +39,11 @@ Svelte/SvelteKitを採用している日本企業まとめ（随時更新）
 ### note株式会社
 - [Next.js + SvelteによるnoteのフロントエンドApp分割](https://note.jp/n/n7f757d7050f6)
 
+## 個人開発（五十音順、アルファベット順）
+
+### のりちゃん
+- [バーチャルな茨城で茨城ダッシュ](https://www.youtube.com/watch?v=WuESG3ML2mU) [サイト](https://ibaraki-dash.kojin.works/)
+
 ## 貢献
 このリポジトリは [@oekazuma](https://github.com/oekazuma) が随時追加しておりますが、Pull Request も歓迎しています。
 以下の条件を満たしている場合、積極的にマージします。
