@@ -26,6 +26,9 @@ Svelte/SvelteKitを採用している日本企業まとめ（随時更新）
 ### 株式会社フライル
 - [20230219_Vercel Meetupの資料](https://docs.google.com/presentation/d/16GCSVB-h_TlZtyq-CQ98_fUux5fpKy8QCybMsgH4SsI/edit#slide=id.g20e65406401_0_108)
 
+### LINEヤフー株式会社
+- [UIT Global Survey 2023 実施レポート - Which frameworks/libraries do you have exposure to in your work?(allow multiple select)](https://techblog.lycorp.co.jp/ja/20230205a#Which-frameworks/libraries-do-you-have-exposure-to-in-your-work?(allow-multiple-select))
+
 ### 株式会社Liquitous
 - [SvelteKitをプロダクションに投入した気づき](https://speakerdeck.com/kazuumin/sveltekitwo-hurotakusiyonni-tou-ru-sitaqi-tuki)
 
