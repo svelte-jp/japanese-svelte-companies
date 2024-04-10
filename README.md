@@ -48,6 +48,8 @@ Svelte/SvelteKitを採用している日本企業まとめ（随時更新）
 
 事例の差し替えや追加・削除も受け付けていますので、気軽にPull Requestをお寄せください。
 
+個人開発の事例紹介はこのリポジトリでは受け付けていませんので[Svelte JapanのDiscord](https://discord.com/invite/8k7VMWRQW4)の[ショーケースチャンネル](https://discord.com/channels/777141291800723468/777150245984534528)で投稿するようにお願いいたします。
+
 ## 謝辞
 [Awesome japanese a11y companies](https://github.com/yamanoku/awesome-japanese-a11y-companies) を参考にしています。
 
