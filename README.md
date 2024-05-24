@@ -10,6 +10,11 @@ Svelte/SvelteKitを採用している日本企業まとめ（随時更新）
 - [Svelte をプロダクトに導入した話](https://speakerdeck.com/oekazuma/svelte-wopurodakutonidao-ru-sitahua)
 - [エイチーム × レバレジーズ フロントエンド勉強会を開催しました](https://techblog.a-tm.co.jp/entry/2023/05/10/104558)
 
+### OSSTech株式会社
+- [フロントエンドの技術選定](https://blog.osstech.co.jp/posts/2023/02/frontend-tech-selection/)
+- [SvelteKit はどのようにコンパイルしているのか？](https://blog.osstech.co.jp/posts/2023/11/how-sveltekit-compiles/)
+- [SvelteKit アプリケーションの組み込みへの考察](https://blog.osstech.co.jp/posts/2023/12/sveltekit-apps-integration/)
+
 ### 株式会社カヤック
 - [仕事でSvelteフレームワークを扱ってみた話](https://techblog.kayac.com/using-the-svelte-framework-at-work)
 
