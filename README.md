@@ -7,6 +7,7 @@ Svelte/SvelteKitを採用している日本企業まとめ（随時更新）
 - [NuxtもNextもSvelteも推し！フロントエンドエンジニアがアンドパッドでみつけた意外な夢](https://sg.wantedly.com/companies/andpad/post_articles/362007)
 
 ### 株式会社エイチーム
+- [ハナユメのフロントエンドにSvelte/SvelteKitを採用しています](https://techblog.a-tm.co.jp/entry/2024/10/22/164045)
 - [Svelte をプロダクトに導入した話](https://speakerdeck.com/oekazuma/svelte-wopurodakutonidao-ru-sitahua)
 - [エイチーム × レバレジーズ フロントエンド勉強会を開催しました](https://techblog.a-tm.co.jp/entry/2023/05/10/104558)
 
