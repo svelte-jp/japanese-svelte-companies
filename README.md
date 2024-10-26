@@ -22,6 +22,9 @@ Svelte/SvelteKitを採用している日本企業まとめ（随時更新）
 ### 株式会社ギフティ
 - [プロダクションでSvelteを採用して半年間運用してみた話](https://speakerdeck.com/yukiks25/purodakusiyondesveltewocai-yong-siteban-nian-jian-yun-yong-sitemitahua)
 
+### KINTOテクノロジーズ株式会社
+- [SvelteKit + Svelte を1年間くらい使ってみた知見など](https://blog.kinto-technologies.com/posts/2022_09_06_svelte_newpost/)
+
 ### ニフティ株式会社
 - [サービスにSvelteを採用した経緯とその理由](https://speakerdeck.com/niftycorp/20230711-collaborated-frontend-study-takeroid)
 
