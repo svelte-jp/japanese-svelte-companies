@@ -36,6 +36,7 @@ Svelte/SvelteKitを採用している日本企業まとめ（随時更新）
 - [CAMPFIRE のフロントエンドに Svelte を採用しました](https://note.com/tkhs0813/n/n93f7affdddd3)
 
 ### LINEヤフー株式会社
+- [UIT Inside ep.163『LINEヤフー初！フロントエンド開発インターンシップを参加者と振り返る』](https://uit-inside.linecorp.com/episode/163)
 - [UIT Global Survey 2023 実施レポート - Which frameworks/libraries do you have exposure to in your work?(allow multiple select)](https://techblog.lycorp.co.jp/ja/20230205a#Which-frameworks/libraries-do-you-have-exposure-to-in-your-work?(allow-multiple-select))
 
 ### 株式会社Liquitous
