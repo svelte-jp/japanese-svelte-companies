@@ -25,6 +25,9 @@ Svelte/SvelteKitを採用している日本企業まとめ（随時更新）
 ### KINTOテクノロジーズ株式会社
 - [SvelteKit + Svelte を1年間くらい使ってみた知見など](https://blog.kinto-technologies.com/posts/2022_09_06_svelte_newpost/)
 
+### 株式会社クレディセゾン
+- [内製化によるシステムモダナイゼーションの実践](https://speakerdeck.com/kazokmr/nei-zhi-hua-niyorusisutemumodanaizesiyonnoshi-jian)
+
 ### ニフティ株式会社
 - [サービスにSvelteを採用した経緯とその理由](https://speakerdeck.com/niftycorp/20230711-collaborated-frontend-study-takeroid)
 
