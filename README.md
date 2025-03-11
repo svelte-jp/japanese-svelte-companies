@@ -61,6 +61,9 @@ Svelte/SvelteKitを採用している日本企業まとめ（随時更新）
 ### note株式会社
 - [Next.js + SvelteによるnoteのフロントエンドApp分割](https://note.jp/n/n7f757d7050f6)
 
+### 株式会社Rabee
+- [Svelte × Tailwind CSSでWeb開発を高速化！UIコンポーネント集「Rabee UI」2025年春リリース](https://prtimes.jp/main/html/rd/p/000000008.000097622.html)
+
 ## 貢献
 このリポジトリは [@oekazuma](https://github.com/oekazuma) が随時追加しておりますが、Pull Request も歓迎しています。
 以下の条件を満たしている場合、積極的にマージします。
