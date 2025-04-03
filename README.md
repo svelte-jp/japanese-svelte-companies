@@ -6,6 +6,9 @@ Svelte/SvelteKitを採用している日本企業まとめ（随時更新）
 ### 株式会社アンドパッド
 - [NuxtもNextもSvelteも推し！フロントエンドエンジニアがアンドパッドでみつけた意外な夢](https://sg.wantedly.com/companies/andpad/post_articles/362007)
 
+### 一般社団法人WebDINO Japan
+- [Web VideoMark (ブラウザ拡張機能のOSSリポジトリ)](https://github.com/videomark/videomark)
+
 ### 株式会社エイチーム
 - [ハナユメのフロントエンドにSvelte/SvelteKitを採用しています](https://techblog.a-tm.co.jp/entry/2024/10/22/164045)
 - [Svelte をプロダクトに導入した話](https://speakerdeck.com/oekazuma/svelte-wopurodakutonidao-ru-sitahua)
