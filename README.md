@@ -9,10 +9,9 @@ Svelte/SvelteKitを採用している日本企業まとめ（随時更新）
 ### 一般社団法人WebDINO Japan
 - [Web VideoMark (ブラウザ拡張機能のOSSリポジトリ)](https://github.com/videomark/videomark)
 
-### 株式会社エイチーム
-- [ハナユメのフロントエンドにSvelte/SvelteKitを採用しています](https://techblog.a-tm.co.jp/entry/2024/10/22/164045)
-- [Svelte をプロダクトに導入した話](https://speakerdeck.com/oekazuma/svelte-wopurodakutonidao-ru-sitahua)
-- [エイチーム × レバレジーズ フロントエンド勉強会を開催しました](https://techblog.a-tm.co.jp/entry/2023/05/10/104558)
+### 株式会社エイチームライフデザイン
+- [ハナユメのフロントエンドにSvelte/SvelteKitを採用しています](https://qiita.com/oekazuma/items/a12b2ac1abbff7cce945)
+- [採用事例の少ないSvelteを選んだ理由と それを正解にするためにやっていること](https://speakerdeck.com/oekazuma/cai-yong-shi-li-noshao-naisveltewoxuan-ndali-you-to-sorewozheng-jie-nisurutameniyatuteirukoto)
 
 ### OSSTech株式会社
 - [フロントエンドの技術選定](https://blog.osstech.co.jp/posts/2023/02/frontend-tech-selection/)
