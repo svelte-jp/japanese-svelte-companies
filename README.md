@@ -37,11 +37,19 @@ Svelte/SvelteKitを採用している日本企業まとめ（随時更新）
 - [ネクストビートでは主幹プロダクトにSvelte/SvelteKitを採用しています](https://medium.com/nextbeat-engineering/%E3%83%8D%E3%82%AF%E3%82%B9%E3%83%88%E3%83%93%E3%83%BC%E3%83%88%E3%81%A7%E3%81%AF%E4%B8%BB%E5%B9%B9%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%81%ABsvelte-sveltekit%E3%82%92%E6%8E%A1%E7%94%A8%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99-92d846760bd)
 - [SvelteKit導入企業2社による本音LT会を開催しました！](https://medium.com/nextbeat-engineering/sveltekit%E5%B0%8E%E5%85%A5%E4%BC%81%E6%A5%AD2%E7%A4%BE%E3%81%AB%E3%82%88%E3%82%8B%E6%9C%AC%E9%9F%B3lt%E4%BC%9A%E3%82%92%E9%96%8B%E5%82%AC%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F-4a94fb494823)
 
+### ファスト株式会社
+- [Why Choosing Svelte? 私たちがSvelteを選んだ理由](https://zenn.dev/fast/articles/8b03441dfa48ed)
+- [006. ネイティブアプリエンジニア（HERP Career 求人・技術スタックにSvelteKitを明記）](https://herp.careers/careers/companies/fast/jobs/NGuKbuhqPmww)
+
 ### 株式会社フライル
 - [20230219_Vercel Meetupの資料](https://docs.google.com/presentation/d/16GCSVB-h_TlZtyq-CQ98_fUux5fpKy8QCybMsgH4SsI/edit#slide=id.g20e65406401_0_108)
 
 ### 株式会社CAMPFIRE
 - [CAMPFIRE のフロントエンドに Svelte を採用しました](https://note.com/tkhs0813/n/n93f7affdddd3)
+
+### 株式会社KiteRa
+- [Svelte/ Golangを用いた自社SaaSプロダクト開発をお任せ！（Wantedly 求人）](https://sg.wantedly.com/projects/1689356)
+- [累計資金調達30億円以上／自社プロダクト開発エンジニア（Wantedly 求人）](https://sg.wantedly.com/projects/1830211)
 
 ### LINEヤフー株式会社
 - [UIT Inside ep.163『LINEヤフー初！フロントエンド開発インターンシップを参加者と振り返る』](https://uit-inside.linecorp.com/episode/163)
@@ -49,6 +57,11 @@ Svelte/SvelteKitを採用している日本企業まとめ（随時更新）
 
 ### 株式会社Liquitous
 - [SvelteKitをプロダクションに投入した気づき](https://speakerdeck.com/kazuumin/sveltekitwo-hurotakusiyonni-tou-ru-sitaqi-tuki)
+
+### Livefor株式会社
+- [【Livefor】アプリエンジニア（Green 求人・FrontEndにSvelte (SvelteKit)を明記）](https://www.green-japan.com/company/3618/job/263628)
+- [【Livefor】カジュアル面談 / オープンポジション（Green 求人）](https://www.green-japan.com/company/3618/job/247546)
+- [CAMPFIRE のフロントエンドに Svelte を採用しました（グループ会社LiveforでのSvelte採用に言及）](https://note.com/tkhs0813/n/n93f7affdddd3)
 
 ### 株式会社MIERUNE
 - [Svelte採用記 - 位置情報と可視化の会社で、全社の標準技術スタックに選ぶまで](https://speakerdeck.com/sorami/svelte-japan-online-meetup-number-3)
@@ -65,6 +78,14 @@ Svelte/SvelteKitを採用している日本企業まとめ（随時更新）
 
 ### 株式会社Rabee
 - [Svelte × Tailwind CSSでWeb開発を高速化！UIコンポーネント集「Rabee UI」2025年春リリース](https://prtimes.jp/main/html/rd/p/000000008.000097622.html)
+
+### 株式会社RightTouch
+- [Rollup + Svelte + Typescriptの環境構成](https://tech.righttouch.co.jp/entry/rollup-svelte-ts-dev)
+- [RightTouchエンジニアチームを知る10問10答](https://tech.righttouch.co.jp/entry/10questions-engineer)
+
+### 株式会社villio
+- [プロダクト管理画面にSvelteKitを選定して開発した話](https://note.com/villio_inc/n/nb1bff512761a)
+- [villioの技術スタック - what we use](https://whatweuse.dev/company/villio)
 
 ## 貢献
 このリポジトリは [@oekazuma](https://github.com/oekazuma) が随時追加しておりますが、Pull Request も歓迎しています。
