@@ -44,6 +44,9 @@ Svelte/SvelteKitを採用している日本企業まとめ（随時更新）
 ### 株式会社フライル
 - [20230219_Vercel Meetupの資料](https://docs.google.com/presentation/d/16GCSVB-h_TlZtyq-CQ98_fUux5fpKy8QCybMsgH4SsI/edit#slide=id.g20e65406401_0_108)
 
+### 株式会社みんなの銀行
+- [ウェブサイト「みんなのBaaS」をリニューアルした話](https://note.minna-no-ginko.com/n/n13565a132c07)
+
 ### 株式会社CAMPFIRE
 - [CAMPFIRE のフロントエンドに Svelte を採用しました](https://note.com/tkhs0813/n/n93f7affdddd3)
 
@@ -63,15 +66,12 @@ Svelte/SvelteKitを採用している日本企業まとめ（随時更新）
 - [【Livefor】カジュアル面談 / オープンポジション（Green 求人）](https://www.green-japan.com/company/3618/job/247546)
 - [CAMPFIRE のフロントエンドに Svelte を採用しました（グループ会社LiveforでのSvelte採用に言及）](https://note.com/tkhs0813/n/n93f7affdddd3)
 
-### 株式会社MIERUNE
-- [Svelte採用記 - 位置情報と可視化の会社で、全社の標準技術スタックに選ぶまで](https://speakerdeck.com/sorami/svelte-japan-online-meetup-number-3)
-
-### 株式会社みんなの銀行
-- [ウェブサイト「みんなのBaaS」をリニューアルした話](https://note.minna-no-ginko.com/n/n13565a132c07)
-
 ### 株式会社M&Aクラウド
 - [新規プロジェクトのフロントエンドにSvelteKitを採用しました](https://tech.macloud.jp/entry/2022/08/30/122131)
 - [NuxtからSvelteKitへ移行しました](https://tech.macloud.jp/entry/2023/12/06/134020)
+
+### 株式会社MIERUNE
+- [Svelte採用記 - 位置情報と可視化の会社で、全社の標準技術スタックに選ぶまで](https://speakerdeck.com/sorami/svelte-japan-online-meetup-number-3)
 
 ### note株式会社
 - [Next.js + SvelteによるnoteのフロントエンドApp分割](https://note.jp/n/n7f757d7050f6)
